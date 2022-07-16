@@ -4,10 +4,9 @@
 My name is Madison Davis, and I am a software developer studying Artificial Intelligence and Information Technology.
 
 ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
-| Artificial Intelligence     | Information Technology      |    
-| ------------- | ------------- |
-| Expert Systems        | Test1         |
-| NL Processing         | Test2         |
+| Artificial Intelligence| ------------- | Expert Systems | Expert Systems |
+| Artificial Intelligence| ------------- | Expert Systems | Expert Systems |
+
 
 ## Connect with Me!
 [![LinkedIn](https://user-images.githubusercontent.com/52668142/179360745-25e3029f-a04c-45c3-bcb5-b0a2cf3c359f.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
