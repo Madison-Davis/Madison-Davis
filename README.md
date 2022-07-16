@@ -2,5 +2,8 @@
 
 ## Hello World!
 <hr>
+My name is Madison Davis, and I am a software developer studying Artificial Intelligence and Information Technology.
 
+
+## Connect with Me
 <hr>
