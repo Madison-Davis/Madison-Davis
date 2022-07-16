@@ -1,17 +1,15 @@
 ![GithubHeader](https://user-images.githubusercontent.com/52668142/179359527-576f111f-5ba0-460f-a64f-256defed7983.PNG)
 
 ## Hello World!
-My name is Madison Davis, and I am an aspiring software developer.
-
+My name is Madison Davis, and I am an aspiring software developer. </n>
 I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 
 
-
-
-## Connect with Me!
+## Connect with Me
 [![LinkedIn](https://user-images.githubusercontent.com/52668142/179360745-25e3029f-a04c-45c3-bcb5-b0a2cf3c359f.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
 [![GoogleDrive](https://user-images.githubusercontent.com/52668142/179360736-886f277e-eaf2-413b-a393-dded9a6325c4.png)](https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
 ![Email](https://user-images.githubusercontent.com/52668142/179360826-213eaf94-ba74-4af3-9b9a-094650a0c3da.png)
+
 
 ## My Statistics
 ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
@@ -23,3 +21,4 @@ I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 | Neural Networks  | Website Development  |
 | Machine Learning  | Web App Development  |
 | Fuzzy Logic  | XR Development  |
+
