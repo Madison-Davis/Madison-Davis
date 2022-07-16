@@ -7,4 +7,4 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 ## Connect with Me!
 
 [![GoogleDrive](https://user-images.githubusercontent.com/52668142/179359980-d03d56a4-78a3-4ec5-ab97-c7fd0810694a.png = 200 x 200)](https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
-![886691_media_512x512](https://user-images.githubusercontent.com/52668142/179359993-94b2f135-f127-4e15-a00a-ea995172f470.png)
+![886691_media_512x512](https://user-images.githubusercontent.com/52668142/179359993-94b2f135-f127-4e15-a00a-ea995172f470.png = 250x250)
