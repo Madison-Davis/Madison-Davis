@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = /Users/madisondavis/Desktop/Photos/GithubBackground.PNG>
+<img src = https://github.com/Madison-Davis/Madison-Davis.wiki.git>
 
 <!--
 **Madison-Davis/Madison-Davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
