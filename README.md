@@ -9,4 +9,8 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 [![GoogleDrive](https://user-images.githubusercontent.com/52668142/179360736-886f277e-eaf2-413b-a393-dded9a6325c4.png)](https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
 ![Email](https://user-images.githubusercontent.com/52668142/179360826-213eaf94-ba74-4af3-9b9a-094650a0c3da.png)
 
+## My Statistics
+![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
+
+
 
