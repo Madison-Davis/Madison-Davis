@@ -11,6 +11,7 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 
 ## My Statistics
 ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madison-Davis&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
