@@ -11,11 +11,10 @@ I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 ![Email](https://user-images.githubusercontent.com/52668142/179360826-213eaf94-ba74-4af3-9b9a-094650a0c3da.png)
 
 
-## My Statistics
+## About Me
 
-![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>Topics of Interest</th><th>Statistics</th></tr>
 <tr><td>
   
 | Artificial Intelligence  | Information Technology | 
