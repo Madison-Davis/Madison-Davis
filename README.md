@@ -2,6 +2,8 @@
 
 ## Hello World!
 My name is Madison Davis, and I am a software developer studying Artificial Intelligence and Information Technology.
+
+![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
 | FirstName     | LastName      | City   
 | ------------- | ------------- | --------    |
 | `John`        | Test1         | `NewYork`   |
@@ -13,6 +15,6 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 ![Email](https://user-images.githubusercontent.com/52668142/179360826-213eaf94-ba74-4af3-9b9a-094650a0c3da.png)
 
 ## My Statistics
-![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
+
 
 
