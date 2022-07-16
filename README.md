@@ -13,7 +13,7 @@ I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 
 ## My Statistics
 
-
+![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
 <table>
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
@@ -28,6 +28,7 @@ I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 | Fuzzy Logic  | XR Development  | 
   
   </td><td>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
   
   </td></tr> </table>
