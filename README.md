@@ -5,4 +5,3 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 
 
 ## Connect with Me
-<hr>
