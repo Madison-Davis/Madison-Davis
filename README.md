@@ -1,7 +1,7 @@
 ![GithubHeader](https://user-images.githubusercontent.com/52668142/179359527-576f111f-5ba0-460f-a64f-256defed7983.PNG)
 
 ## Hello World!
-My name is Madison Davis, and I am an aspiring software developer. </n>
+My name is Madison Davis, and I am an aspiring software developer.
 I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 
 
