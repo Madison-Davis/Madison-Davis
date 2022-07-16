@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src = https://github.com/Madison-Davis/Madison-Davis.wiki.git>
 
 <!--
