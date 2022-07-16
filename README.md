@@ -13,12 +13,12 @@ I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
 
 ## My Statistics
 
-| Artificial Intelligence  | Information Technology |
+| Artificial Intelligence  | Information Technology | ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
 | ------------- | ------------- |
 | Expert Systems  | Back End Development  |
 | NL Processing  | Front End Development  |
 | Computer Vision  | Cloud Development  |
 | Neural Networks  | Website Development  |
 | Machine Learning  | Web App Development  |
-| Fuzzy Logic  | XR Development  | ![](https://github-readme-stats.vercel.app/api?username=Madison-Davis&theme=graywhite&show_icons=true)
+| Fuzzy Logic  | XR Development  | 
 
