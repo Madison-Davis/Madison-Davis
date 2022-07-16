@@ -5,6 +5,6 @@ My name is Madison Davis, and I am a software developer studying Artificial Inte
 
 
 ## Connect with Me!
-(https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
 
 Hello!
+[![Hello](https://user-images.githubusercontent.com/52668142/179360540-8108aec0-2d5a-45e2-9cbd-f1c90cca5956.png)](https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
