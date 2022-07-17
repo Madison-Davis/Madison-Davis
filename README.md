@@ -7,8 +7,8 @@
 
 
 ## Hello World!
-My name is Madison Davis, and I am an aspiring software developer. <br/>
-I have had experience with Python, JS, SQL, HTML/CSS, C#, and more!
+My name is Madison Davis, and I love learning to code and develop new software. <br/>
+I have had experience with Python, JS, Java, SQL, Swift, HTML/CSS, C#, and more!
 
 
 ## About Me
