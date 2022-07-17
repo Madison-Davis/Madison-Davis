@@ -1,4 +1,3 @@
-![GithubHeader](https://user-images.githubusercontent.com/52668142/179359527-576f111f-5ba0-460f-a64f-256defed7983.PNG)
 ![BackgroundHeader](https://user-images.githubusercontent.com/52668142/179382628-04a304a9-8d5e-472c-8655-5a58f5056db1.png)
 
 ## Connect with Me
