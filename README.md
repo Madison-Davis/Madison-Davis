@@ -1,4 +1,6 @@
+<img width="1364" alt="Screen Shot 2022-07-16 at 10 32 55 PM" src="https://user-images.githubusercontent.com/52668142/179382683-1637ccf7-c7be-44c7-829b-24e653f9ff4f.png">
 ![BackgroundHeader](https://user-images.githubusercontent.com/52668142/179382628-04a304a9-8d5e-472c-8655-5a58f5056db1.png)
+
 
 ## Connect with Me
 [![LinkedIn](https://user-images.githubusercontent.com/52668142/179360745-25e3029f-a04c-45c3-bcb5-b0a2cf3c359f.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
