@@ -8,7 +8,7 @@
 
 ## Hello World!
 My name is Madison Davis, and I love learning to code and develop new software. <br/>
-I have had experience with Python, JS, Java, SQL, Swift, HTML/CSS, C#, and more!
+I have experience with Python, JS, Java, SQL, Swift, HTML/CSS, C#, and much more!
 
 
 ## About Me
