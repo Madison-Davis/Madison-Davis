@@ -1,4 +1,6 @@
-<img width="1364" alt="Screen Shot 2022-07-16 at 10 32 55 PM" src="https://user-images.githubusercontent.com/52668142/179382683-1637ccf7-c7be-44c7-829b-24e653f9ff4f.png">
+<img width="1364" alt="Screen Shot 2022-07-16 at 10 32 55 PM" src="https://user-images.githubusercontent.com/52668142/180665553-0194ed60-a157-4919-85ed-b6cd7cb06122.jpg">
+
+![imgonline-com-ua-CompressToSize-qy0RpE34IJ2YLDKU]()
 
 ## Connect with Me
 [![LinkedIn](https://user-images.githubusercontent.com/52668142/179383081-3d283183-8246-4d7d-9646-e2a9a181ecbc.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
