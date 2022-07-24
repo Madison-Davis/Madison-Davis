@@ -5,10 +5,11 @@
 ![imgonline-com-ua-CompressToSize-qy0RpE34IJ2YLDKU]()
 
 ## Connect with Me
-[![LinkedIn](https://user-images.githubusercontent.com/52668142/180666630-e5255826-f528-4e83-9128-11e62609b5d6.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
+[![LinkedIn](https://user-images.githubusercontent.com/52668142/180666665-07ac99e5-a9f2-4c19-8a14-53decd695662.png)](https://www.linkedin.com/in/madison-davis-80a92b1ab/)
 [![GoogleDrive](https://user-images.githubusercontent.com/52668142/180666618-075b386e-24c1-4888-9487-be92266d7e6a.png)](https://docs.google.com/spreadsheets/d/1kC-Nj-21HsnnRpp4nHG9qhnWOD2fKT7cEKvJOfgY65g/edit?usp=drive_web&ouid=115775413884613507275)
 [![Email]([https://user-images.githubusercontent.com/52668142/179383123-9d9ac94a-a978-4926-bb52-4ca6857ea5e7.png](https://user-images.githubusercontent.com/52668142/180666556-d2e93516-3351-470d-abae-1f1e60da51fe.png))](http://colidity.com/)
 
+![LinkedInII-modified]()
 
 ## Hello World
 My name is Madison Davis, and I love learning to code and develop new software. <br/>
