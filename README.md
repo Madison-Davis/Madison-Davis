@@ -3,34 +3,6 @@
 <br><br>
 
 ## CONNECT WITH ME
-Hi! I'm Madison. I'm a student developer who loves to explore the applications of computer science and economics. <br>
-<br>
-<table>
-  <thead>
-    <tr>
-      <td>CS</td>
-      <td>ECON</td>
-    </tr>
-  </thead>
-  <thead>
-    <tr>
-      <td>Artifical Intelligence</td>
-      <td>Product Management</td>
-    </tr>
-  </thead>
-  <thead>
-    <tr>
-      <td>Computer Engineering</td>
-      <td>Industry Operations</td>
-    </tr>
-  </thead>
-  <thead>
-    <tr>
-      <td>Theoretical CS</td>
-      <td>Entrepreneurship</td>
-    </tr>
-  </thead>
-</table>
 
 
 
